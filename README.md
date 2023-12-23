@@ -1,5 +1,5 @@
 # Calculadora de rendimento - CRA | MGA
-Essa calculadora é baseada no regimento do guia acadêmico 2018 da engenharia da computação - UFU: [link para a página](http://www.prograd.ufu.br/sites/prograd.ufu.br/files/media/arquivo/guia_academico2018_1_engenharia_de_computacao_uberlandia_1.pdf)
+Essa calculadora é baseada no regimento do guia acadêmico 2018 da engenharia da computação - UFU: [link para a página].(http://www.prograd.ufu.br/sites/prograd.ufu.br/files/media/arquivo/guia_academico2018_1_engenharia_de_computacao_uberlandia_1.pdf)
 As fórmulas utlizadas nesse código se encontram nas páginas 58 e 59.
 
 ## O que é CRA?
