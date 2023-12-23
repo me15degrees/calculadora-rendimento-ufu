@@ -20,12 +20,6 @@ Isso associado à possibilidade de escolher quantos semestres entrarão no cálc
 O que torna possível calcular mais de um semestre e realizar a média dos resultados. 
 
 ## Como usar:
-1 - Se você ainda não tem o Git instalado em sua máquina, você pode baixá-lo e instalá-lo a partir do site oficial do Git. Siga as instruções de instalação adequadas para o seu sistema operacional.<br/><br/>2 - Abra o terminal (Linux/Mac) ou o Git Bash (Windows) e navegue até o diretório onde você deseja armazenar o projeto. Em seguida, use o seguinte comando para clonar o repositório: git clone https://github.com/me15degrees/calculadora-rendimento-ufu.git
-3 - Navegue para o diretório do projeto usando o comando cd: cd nome-do-repositorio
-4 - Use pip install para o rich_menu: pip install rich_menu (crie um ambiente virutal antes)
-5 - Verificar se possui python instalado, para isso entre no site oficial e siga as instruções de instalação adequadas para o seu sistema operacional.
-6 - Depois de instalar as dependências, você pode executar o projeto com o seguinte comando: python 'nome do arquivo.py'.
-
-dica -> para a lista de dependências específicas do projeto você pode usar o seguinte comando: pip install -r requirements.txt
+1 - Se você ainda não tem o Git instalado em sua máquina, você pode baixá-lo e instalá-lo a partir do site oficial do Git. Siga as instruções de instalação adequadas para o seu sistema operacional.<br/><br/>2 - Abra o terminal (Linux/Mac) ou o Git Bash (Windows) e navegue até o diretório onde você deseja armazenar o projeto. Em seguida, use o seguinte comando para clonar o repositório: git clone https://github.com/me15degrees/calculadora-rendimento-ufu.git<br/><br/>3 - Navegue para o diretório do projeto usando o comando cd: cd nome-do-repositorio<br/><br/>4 - Use pip install para o rich_menu: pip install rich_menu (crie um ambiente virutal antes)<br/><br/>5 - Verificar se possui python instalado, para isso entre no site oficial e siga as instruções de instalação adequadas para o seu sistema operacional.<br/><br/>6 - Depois de instalar as dependências, você pode executar o projeto com o seguinte comando: python 'nome do arquivo.py'.<br/><br/>dica -> para a lista de dependências específicas do projeto você pode usar o seguinte comando: pip install -r requirements.txt
 
 
