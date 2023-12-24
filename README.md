@@ -3,10 +3,10 @@ Essa calculadora é baseada no regimento do guia acadêmico 2018 da engenharia d
 As fórmulas utlizadas nesse código se encontram nas páginas 58 e 59.
 
 ## O que é CRA?
-CRA é o Coeficiente de Rendimento Acadêmico, comummente utilizado em processos seletivos, uma vez que é um cálculo efetuado com base nas notas adquiridas pelo discente durante os semestres na faculdade.
+CRA é o Coeficiente de Rendimento Acadêmico, comumente utilizado em processos seletivos, uma vez que é um cálculo efetuado com base nas notas adquiridas pelo discente durante os semestres na faculdade.
 ## O que é MGA?
 MGA é a média geral acumulada, e é utilizado em casos excepcionais em que não é evidenciado o CRA.
-*vale ressaltar que essas coeficientes/índices variam de universidade para universidade *
+*vale ressaltar que essas coeficientes/índices variam de universidade para universidade*
 
 ## Sobre o código
 Fiz o somatório levando em consideração a distinção entre carga horária **cursada** (CHc) e carga horária **matriculada** (CHm).
