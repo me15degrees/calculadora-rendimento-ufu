@@ -23,6 +23,10 @@ O que torna possível calcular mais de um semestre e realizar a média dos resul
 ## Como usar:
 1 - Se você ainda não tem o Git instalado em sua máquina, você pode baixá-lo e instalá-lo a partir do site oficial do Git. Siga as instruções de instalação adequadas para o seu sistema operacional.<br/><br/>2 - Abra o terminal (Linux/Mac) ou o Git Bash (Windows) e navegue até o diretório onde você deseja armazenar o projeto. Em seguida, use o seguinte comando para clonar o repositório: `git clone https://github.com/me15degrees/calculadora-rendimento-ufu.git`<br/><br/>3 - Navegue para o diretório do projeto usando o comando cd: `cd calculadora-rendimento-ufu`<br/><br/>4 - Use pip install para o rich_menu: `pip install rich_menu` (crie um ambiente virutal antes)<br/><br/>5 - Verificar se possui python instalado, para isso entre no site oficial e siga as instruções de instalação adequadas para o seu sistema operacional.<br/><br/>6 - Depois de instalar as dependências, você pode executar o projeto com o seguinte comando: `python contas.py`.<br/><br/>
 
+## Funcionamento:
+
+<img src="/assets/gif-calculadora.gif">
+
 <div align="center">
 Follow me:
   
