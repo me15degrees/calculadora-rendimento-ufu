@@ -43,17 +43,17 @@ def curso():
 def print_erro1():
     print("----------------------------------------------------------")
     print("o número de trancamento ou de reprovação por faltas supera a quantidade de matérias do semestre!")
-    time.sleep(1)
+    time.sleep(0.5)
     print("encerrando o programa...")
-    time.sleep(1)
+    time.sleep(0.2)
     exit(1)
 
 def print_erro2():
     print("----------------------------------------------------------")
     print("você escreveu apenas a carga horária ou a nota")
-    time.sleep(1)
+    time.sleep(0.5)
     print("reescreva de novo...")
-    time.sleep(1)
+    time.sleep(0.2)
     print("----------------------------------------------------------")
 
 def obter_carga_horaria_e_nota(mensagem):
