@@ -52,7 +52,7 @@ def print_erro2():
     print("----------------------------------------------------------")
     print("você escreveu apenas a carga horária ou a nota")
     time.sleep(1)
-    print("encerrando o programa...")
+    print("reescreva de novo...")
     time.sleep(1)
     print("----------------------------------------------------------")
 
@@ -60,12 +60,10 @@ def obter_carga_horaria_e_nota(mensagem):
     while True:
         try:
             carga, nota = input(mensagem).split()
-
             if carga.isdigit() and nota.isdigit():
                 return int(carga), int(nota)
             else:
                 raise ValueError
-
         except ValueError:
             print_erro2()
 
@@ -119,7 +117,6 @@ def cra(result_curso):
                 resultado_cra = numerador1 / carga_horaria_matriculada
             else:
                 resultado_cra = (numerador1 / carga_horaria_matriculada) * (carga_horaria_reprovacao_falta / (2 * carga_horaria_matriculada))
-
             return resultado_cra
 
 def mga():
@@ -131,13 +128,12 @@ def mga():
         carga, nota = obter_carga_horaria_e_nota("Digite a carga horária e a nota da matéria: ")
         produto += nota * carga
         carga_ += carga
-
     return produto / carga_
 
 def main():
-    result_curso = curso()
     semestres_selecionados = int(semestres())
     if menu() == "CRA":
+        result_curso = curso()
         total_cra = 0
         for _ in range(semestres_selecionados):
             total_cra += cra(result_curso)
@@ -149,4 +145,4 @@ def main():
         print(f"MGA: {mga_result}")
 
 if __name__ == "__main__":
-    main()
+    main()  
