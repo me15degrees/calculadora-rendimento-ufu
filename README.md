@@ -1,12 +1,13 @@
 # Calculadora de rendimento - CRA | MGA
-Essa calculadora é baseada no regimento do guia acadêmico 2018 da engenharia da computação - UFU: [link para a página](http://www.prograd.ufu.br/sites/prograd.ufu.br/files/media/arquivo/guia_academico2018_1_engenharia_de_computacao_uberlandia_1.pdf).
-As fórmulas utlizadas nesse código se encontram nas páginas 58 e 59.
+Essa calculadora é baseada no regimento do <a href=http://www.prograd.ufu.br/sites/prograd.ufu.br/files/media/arquivo/guia_academico2018_1_engenharia_de_computacao_uberlandia_1.pdf >guia acadêmico 2018</a> da engenharia da computação. As fórmulas utlizadas nesse código se encontram nas páginas 58 e 59.
 
 ## O que é CRA?
 CRA é o Coeficiente de Rendimento Acadêmico, comumente utilizado em processos seletivos, uma vez que é um cálculo efetuado com base nas notas adquiridas pelo discente durante os semestres na faculdade.
 ## O que é MGA?
 MGA é a média geral acumulada, e é utilizado em casos excepcionais em que não é evidenciado o CRA.
-*vale ressaltar que essas coeficientes/índices variam de universidade para universidade*
+
+*Vale ressaltar que essas coeficientes/índices variam de universidade para universidade*
+
 
 ## Sobre o código
 Fiz o somatório levando em consideração a distinção entre carga horária **cursada** (CHc) e carga horária **matriculada** (CHm).
@@ -20,6 +21,15 @@ Isso associado à possibilidade de escolher quantos semestres entrarão no cálc
 O que torna possível calcular mais de um semestre e realizar a média dos resultados. 
 
 ## Como usar:
-1 - Se você ainda não tem o Git instalado em sua máquina, você pode baixá-lo e instalá-lo a partir do site oficial do Git. Siga as instruções de instalação adequadas para o seu sistema operacional.<br/><br/>2 - Abra o terminal (Linux/Mac) ou o Git Bash (Windows) e navegue até o diretório onde você deseja armazenar o projeto. Em seguida, use o seguinte comando para clonar o repositório: git clone https://github.com/me15degrees/calculadora-rendimento-ufu.git<br/><br/>3 - Navegue para o diretório do projeto usando o comando cd: cd nome-do-repositorio<br/><br/>4 - Use pip install para o rich_menu: pip install rich_menu (crie um ambiente virutal antes)<br/><br/>5 - Verificar se possui python instalado, para isso entre no site oficial e siga as instruções de instalação adequadas para o seu sistema operacional.<br/><br/>6 - Depois de instalar as dependências, você pode executar o projeto com o seguinte comando: python 'nome do arquivo.py'.<br/><br/>dica -> para a lista de dependências específicas do projeto você pode usar o seguinte comando: pip install -r requirements.txt
+1 - Se você ainda não tem o Git instalado em sua máquina, você pode baixá-lo e instalá-lo a partir do site oficial do Git. Siga as instruções de instalação adequadas para o seu sistema operacional.<br/><br/>2 - Abra o terminal (Linux/Mac) ou o Git Bash (Windows) e navegue até o diretório onde você deseja armazenar o projeto. Em seguida, use o seguinte comando para clonar o repositório: `git clone https://github.com/me15degrees/calculadora-rendimento-ufu.git`<br/><br/>3 - Navegue para o diretório do projeto usando o comando cd: `cd calculadora-rendimento-ufu`<br/><br/>4 - Use pip install para o rich_menu: `pip install rich_menu` (crie um ambiente virutal antes)<br/><br/>5 - Verificar se possui python instalado, para isso entre no site oficial e siga as instruções de instalação adequadas para o seu sistema operacional.<br/><br/>6 - Depois de instalar as dependências, você pode executar o projeto com o seguinte comando: `python contas.py`.<br/><br/>
 
+<div align="center">
+Follow me:
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-nascimento-andrade-bb0b86213/)
+  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCh6sgz1ij_my64lX8rQnPXg)
+  [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/223w3q4xdm4pquahzl5xhfpia?si=t08g7SlVRvqhF0LseXTyXg&nd=1&dlsi=87356229bcf14264)
+  [![Last.fm](https://img.shields.io/badge/Last.fm-D51007?style=flat&logo=last.fm&logoColor=white)](https://www.last.fm/user/me15degrees)
+  
 
+</div>
